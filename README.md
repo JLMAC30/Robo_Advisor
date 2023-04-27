@@ -20,8 +20,8 @@ The robo advisor will be built using Amazon Lex, AWS Lambda, and Amazon S3. Amaz
 * AWS CLI
 
 ## Installation
-1.Clone the repository
-2.  Create an AWS Lambda function to serve as the fulfillment function
+1. Clone the repository
+2. Create an AWS Lambda function to serve as the fulfillment function
 3. Create an Amazon Lex bot and configure the intents, slots, and fulfillment
 4. Build and test the bot using the Amazon Lex console
 5. Deploy the bot to production
